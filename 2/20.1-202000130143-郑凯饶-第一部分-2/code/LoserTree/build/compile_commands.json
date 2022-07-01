@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/build",
+  "command": "g++  @CMakeFiles/LoserTree.dir/includes_CXX.rsp -g -o CMakeFiles\\LoserTree.dir\\src\\LoserTree.obj -c C:\\Users\\DELL\\Desktop\\Coder\\DSA\\2\\LoserTree\\src\\LoserTree.cpp",
+  "file": "C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/src/LoserTree.cpp"
+},
+{
+  "directory": "C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/build",
+  "command": "g++  @CMakeFiles/LoserTree.dir/includes_CXX.rsp -g -o CMakeFiles\\LoserTree.dir\\src\\main.obj -c C:\\Users\\DELL\\Desktop\\Coder\\DSA\\2\\LoserTree\\src\\main.cpp",
+  "file": "C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/src/main.cpp"
+}
+]
