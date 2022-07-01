@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/Coder/DSA/3/catalogTree/build/CMakeFiles/catalogTree.dir
+C:/Users/DELL/Desktop/Coder/DSA/3/catalogTree/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/Coder/DSA/3/catalogTree/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/build",
+  "command": "g++  @CMakeFiles/skipList.dir/includes_CXX.rsp -g -o CMakeFiles\\skipList.dir\\src\\main.obj -c C:\\Users\\DELL\\Desktop\\Coder\\DSA\\1\\CMakeTest\\src\\main.cpp",
+  "file": "C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/src/main.cpp"
+},
+{
+  "directory": "C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/build",
+  "command": "g++  @CMakeFiles/skipList.dir/includes_CXX.rsp -g -o CMakeFiles\\skipList.dir\\src\\skipList.obj -c C:\\Users\\DELL\\Desktop\\Coder\\DSA\\1\\CMakeTest\\src\\skipList.cpp",
+  "file": "C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/src/skipList.cpp"
+}
+]

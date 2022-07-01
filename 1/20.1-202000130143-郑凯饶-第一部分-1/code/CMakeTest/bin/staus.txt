@@ -1,0 +1,11 @@
+Test is over. The result is as follows:
+Test point 1 costs 0.002 s
+Test point 2 costs 0.002 s
+Test point 3 costs 0.002 s
+Test point 4 costs 0.002 s
+Test point 5 costs 0.001 s
+Test point 6 costs 0.005 s
+Test point 7 costs 0.01 s
+Test point 8 costs 0.013 s
+Test point 9 costs 0.017 s
+Test point 10 costs 0.021 s
