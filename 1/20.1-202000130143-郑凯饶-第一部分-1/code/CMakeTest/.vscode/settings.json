@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "cstdlib": "cpp",
-        "algorithm": "cpp",
-        "bitset": "cpp"
-    }
-}
