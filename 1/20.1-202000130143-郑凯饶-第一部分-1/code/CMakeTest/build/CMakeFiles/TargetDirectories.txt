@@ -1,3 +1,0 @@
-C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/build/CMakeFiles/skipList.dir
-C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/build/CMakeFiles/edit_cache.dir
-C:/Users/DELL/Desktop/Coder/DSA/1/CMakeTest/build/CMakeFiles/rebuild_cache.dir

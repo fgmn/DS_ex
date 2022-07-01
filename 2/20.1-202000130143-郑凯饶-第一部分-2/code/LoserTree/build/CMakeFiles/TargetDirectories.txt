@@ -1,3 +1,0 @@
-C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/build/CMakeFiles/LoserTree.dir
-C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/build/CMakeFiles/edit_cache.dir
-C:/Users/DELL/Desktop/Coder/DSA/2/LoserTree/build/CMakeFiles/rebuild_cache.dir
